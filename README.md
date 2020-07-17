@@ -1,1 +1,1 @@
-![Profile](JustinSDK/images/profile.png)
+![Profile](https://github.com/JustinSDK/JustinSDK/blob/master/images/profile.png)
